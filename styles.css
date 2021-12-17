@@ -29,6 +29,11 @@ hr{
     margin: auto;
 }
 
+.container a{
+    display: inline-block;
+    margin: 0.25rem 0rem;
+}
+
 /* links */
 .links{
     text-decoration: none;
